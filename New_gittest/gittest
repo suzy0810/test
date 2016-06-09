@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title><%sub_title> git_test <%blog_name></title>
+<meta name="author" content="<%author_name>">
+<meta name="description" content="<%introduction>">
+<meta name="keywords" content="git,test,gittest">
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><!CSS>
+</head>
+<body>
+</body>
+</html>
